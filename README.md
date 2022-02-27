@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gianlu-98
 - 👀 I’m interested in Networking and it's my current Job
-- 🌱 I’m currently learning bash scripting for my home lab
+- 🌱 I’m currently learning bash scripting and Python
 
 
 <!---
