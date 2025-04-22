@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GianlucaUlivi
-- 👀 I’m interested in Networking and currently working as Network Engineer
-- 🌱 I’m currently using and learning bash scripting and Python mainly to interact with API on Network tools and Management Platforms
+- 👀 I’m interested in Networking and currently working as Senior Network Engineer
+- 🌱 I’m currently using Python to interact with API on Network tools and Management Platforms
 
 
 <!---
